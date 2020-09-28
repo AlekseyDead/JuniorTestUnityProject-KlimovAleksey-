@@ -6,7 +6,6 @@ public class LocationLevelGenerator : MonoBehaviour
 {
 
     static int CurrentLocationLevel = 0;
-    // Start is called before the first frame update
 
     public static void GenerateLocationLevel(LocationLevelSettings[] currentSettings,
         ConfigurationData.LocationLevelProgressionType locationLevelProgressionType, ConfigurationData.PickableResourcesGenerationStrategyType strategyType)

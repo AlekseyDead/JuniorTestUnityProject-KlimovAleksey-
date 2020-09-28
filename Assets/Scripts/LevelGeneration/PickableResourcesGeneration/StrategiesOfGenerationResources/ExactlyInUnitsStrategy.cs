@@ -6,6 +6,7 @@ public class ExactlyInUnitsStrategy : StrategyOfGenerationResources
 {
 
     List<Vector3> ArrayOfAllUnits;
+
     //Resources can spawn only in units
     protected override Vector3[] DefinitionPositionsOfResources(int numberOfResources)
     {

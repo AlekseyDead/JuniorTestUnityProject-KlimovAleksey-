@@ -21,10 +21,7 @@ public class PlayerMoving : MonoBehaviour
     {
         PlayerPosition = transform.position;
     }
-    void Start()
-    {
 
-    }
 
     void FixedUpdate()
     {
