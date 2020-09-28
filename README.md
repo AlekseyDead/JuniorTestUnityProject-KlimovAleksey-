@@ -1,3 +1,3 @@
 # JuniorTestUnityProject-KlimovAleksey-
 
-Do in Unity 2020.1.6f1
+Did in Unity 2020.1.6f1
